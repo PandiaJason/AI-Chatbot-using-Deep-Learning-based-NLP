@@ -12,4 +12,5 @@
 
 **Notice:** This project was conceived before the Gen AI era. I have made the code and documentation completely available under the GPL license. Some of the DL and NLP modules may have been updated in the past 3-4 years, and as a result, the AI Chatbot might not work. However, this project marked the beginning of conceptualizing BERT-like transformers for Gen AI tasks. I am proud to have pioneered this concept and was awarded first place for my B.E. thesis.
 
+[For More information Check the thesis](https://github.com/PandiaJason/AI-DL-NLP-CHATBOT/blob/main/AI%20Chatbot%20Design%20using%20Deep%20Learning%20based%20NLP.pdf)
 
