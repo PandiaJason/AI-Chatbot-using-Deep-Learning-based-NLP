@@ -1,5 +1,11 @@
 # AI Chatbot using Deep Learning based NLP 
 
+- 🌐 Pioneered the concept of Gen AI with BERT and Transformers in 2019.
+- 🤖 Built both open-domain and closed-domain chatbots utilizing DuckDuckGo API, Wikipedia API, and Custom dataset.
+- 📊 Organized a 70-year NLP survey up to 2020, breathing life into the concept of chatbots with Python and NgRok-based web app using Google Colab with DNN models.
+- 🌐 Tested it with a wide range of chatbots like OK Google, Amazon Assistant, and others, as detailed in my full thesis.
+- 🏆 Awarded first place for this groundbreaking project.
+
 ![image](https://github.com/PandiaJason/AI-DL-NLP-CHATBOT/assets/100123063/594646c3-145f-45f2-9cb9-2b9c3961993f)
 
 ## Overall Concept
